@@ -2,3 +2,7 @@ apples
 oranges
 bananas
 pineapples
+lychee
+mango
+pear
+peach
